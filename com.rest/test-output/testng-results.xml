@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4151" started-at="2017-06-20T16:55:38Z" finished-at="2017-06-20T16:55:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4151" started-at="2017-06-20T16:55:38Z" finished-at="2017-06-20T16:55:42Z">
+      <class name="googlerestapi.com.rest.GetStatusCodeTest">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:googlerestapi.com.rest.GetStatusCodeTest@4501b7af]" name="setBaseUri" is-config="true" duration-ms="704" started-at="2017-06-20T23:55:38Z" finished-at="2017-06-20T23:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:googlerestapi.com.rest.GetStatusCodeTest@4501b7af]" name="testStatusCode" duration-ms="2831" started-at="2017-06-20T23:55:38Z" finished-at="2017-06-20T23:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method status="PASS" signature="testStatusCodeRestAssured()[pri:0, instance:googlerestapi.com.rest.GetStatusCodeTest@4501b7af]" name="testStatusCodeRestAssured" duration-ms="578" started-at="2017-06-20T23:55:41Z" finished-at="2017-06-20T23:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCodeRestAssured -->
+      </class> <!-- googlerestapi.com.rest.GetStatusCodeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
